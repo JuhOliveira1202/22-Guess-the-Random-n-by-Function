@@ -1,0 +1,1 @@
+# 22-Guess-the-Random-n-by-Function
